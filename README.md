@@ -2,4 +2,4 @@
 
 -responsive 
 
-<img src="scss.gif"/># jblcloneproject
+<img src="scss.gif"/>
